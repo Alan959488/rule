@@ -4,11 +4,8 @@
 DOMAIN,ios.ngp.prod.cloud.netflix.com
 DOMAIN,appboot.netflix.com
 DOMAIN,ios.prod.cloud.netflix.com
-
 DOMAIN-SUFFIX,xbtest.com
 PROTOCOL,STUN
-
-
 IP-CIDR,95.161.76.100/31,no-resolve
 DOMAIN-SUFFIX,xbtest.com
 DOMAIN,118.89.204.198
