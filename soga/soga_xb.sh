@@ -24,7 +24,7 @@ server_type=ss
 #对接配置
 api=webapi
 node_id=363
-webapi_url=https://cloud.sxxxx.top
+webapi_url=https://alansososo.sxxxx.top
 webapi_key=m2D0NcGX9mIFhde4uwy4Do
 soga_key=
 
