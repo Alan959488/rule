@@ -25,7 +25,7 @@ server_type=ss
 api=webapi
 node_id=363
 webapi_url=https://alansososo.sxxxx.top
-webapi_key=m2D0NcGX9mIFhde4uwy4Do
+webapi_key=ergjheuifnjdssdfwefguvqa
 soga_key=
 
 #redis_db=1
