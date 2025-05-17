@@ -24,17 +24,24 @@ server_type=ss
 #对接配置
 api=webapi
 node_id=363
-webapi_url=https://xb.xuj55480.top
+webapi_url=https://cloud.sxxxx.top
 webapi_key=m2D0NcGX9mIFhde4uwy4Do
 soga_key=
 
+#redis_db=1
+#conn_limit_expiry=60
+#user_conn_limit=5
+#redis_enable=true
+#redis_addr=103.117.103.130:6888
+#redis_password=2HkRyCDatEBCRssostK1
+
 # DNS配置
 dns_strategy=ipv4_first
-default_dns=1.1.1.1
+default_dns=1.1.1.1,8.8.8.8
 
 # 中转相关配置
-#proxy_protocol=true
-
+proxy_protocol=true
+udp_proxy_protocol=true
 # 禁止BT
 forbidden_bit_torrent=ture
 
