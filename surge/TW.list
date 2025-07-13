@@ -1,0 +1,27 @@
+
+DOMAIN-SUFFIX,kk.stream
+DOMAIN,d3c7rimkq79yfu.cloudfront.net
+DOMAIN,players.brightcove.net
+DOMAIN,manifest.prod.boltdns.net
+DOMAIN,litvfreemobile-hichannel.cdn.hinet.net
+DOMAIN,4gtvfreepcvod-cds.cdn.hinet.net
+DOMAIN,gamer2-cds.cdn.hinet.net
+DOMAIN,gamer-cds.cdn.hinet.net
+DOMAIN,hbolb.onwardsmg.com
+DOMAIN,44wilhpljf.execute-api.ap-southeast-1.amazonaws.com
+DOMAIN,hbounify-prod.evergent.com
+DOMAIN-SUFFIX,viblast.com
+DOMAIN-SUFFIX,linetv.tw
+DOMAIN,bahamut.akamaized.net
+DOMAIN-SUFFIX,digicert.com
+DOMAIN-SUFFIX,bahamut.com.tw
+DOMAIN-SUFFIX,ani.gamer.com.tw
+DOMAIN-SUFFIX,kktv.com.tw
+DOMAIN-SUFFIX,litv.tv
+DOMAIN-SUFFIX,4gtv.tv
+DOMAIN-SUFFIX,kktv.me
+USER-AGENT,com.kktv.ios.kktv*
+USER-AGENT,KKTV*
+USER-AGENT,LINE TV*
+USER-AGENT,Anime*
+PROCESS-NAME,com.linecorp.linetv
