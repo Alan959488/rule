@@ -1,5 +1,6 @@
 ##
 payload: 
+  - DOMAIN,sxxxx.top
   - DOMAIN,1password.com
   - DOMAIN,22220.xyz
   - DOMAIN,afun.la
